@@ -210,6 +210,7 @@ Domain registration and web hosting without identity verification.
 | [Namecheap](https://namecheap.com/) | Domains with Bitcoin payment option. | 🟠 BTC |
 | [Bitlaunch](https://bitlaunch.io/) | VPS with instant crypto payment. | 🟠 ⚡ BTC, Lightning |
 | [Servers Guru](https://servers.guru/) | VPS accepting Monero. | ⬛ XMR |
+| [EQVPS](https://eqvps.com/) | Crypto-native VPS. No account, email + crypto only. Order via API/MCP. | USDC, USDT |
 
 ---
 
